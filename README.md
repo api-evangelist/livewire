@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-LiveWire is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://livewire.com/
+LiveWire designs and manufactures high-performance electric motorcycles, offering models such as the LiveWire ONE, S4 Honcho, and S2 series. The company focuses on innovative electric vehicle technology, sustainability, and a premium riding experience, with a US presence and a growing global market. It provides product information, financing options, and a dealer network through its website.
+
+**Areas:** Company · ElectricMotorcycles · EV · Transportation · Sustainability · US
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.livewire.com/)
+- [Documentation](https://www.livewire.com/)
+- [Support](https://www.livewire.com/contact)
+- [Blog](https://www.livewire.com/the-pulse/latest-news)
+- [Terms of service](https://www.livewire.com/documents/terms-of-use)
+- [Privacy policy](https://www.livewire.com/documents/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/livewire/](https://apis.io/providers/livewire/).
